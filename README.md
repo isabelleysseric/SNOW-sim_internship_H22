@@ -154,9 +154,10 @@ SNOW-sim_internship_H22-main
 │              ├── template_model.sdf  
 │              ├── template_world.sdf  
 │              └── README.md  
+|  
 ├── Report  
-|      ├── Final_Report_Simulators.pdf
-│      └── README.md 
+│      ├── Final_Report_Simulators.pdf  
+│      └── README.md  
 │  
 └── README.md  
 
