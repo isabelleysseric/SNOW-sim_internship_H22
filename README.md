@@ -36,7 +36,7 @@
   
 Currently with our material conditions and those of the field of mobile robotics, the ideal simulator is Gazebo Ignition (Fortress version).  
   
-In this repository, there are 3 folders, one for the simulator with the models and the scripts to install it on Ubuntu 20.04 and do tests, one for the docker images to install it from any environment and another with the models built under Blender.  
+In this repository, there are 4 folders, one for the simulator with the models and the scripts to install it on Ubuntu 20.04 and do tests, one for the docker images to install it from any environment, one with the models built under Blender and another for the finale report.
   
 <br/>
 <br/>
@@ -154,6 +154,9 @@ SNOW-sim_internship_H22-main
 │              ├── template_model.sdf  
 │              ├── template_world.sdf  
 │              └── README.md  
+├── Report  
+|      ├── Final_Report_Simulators.pdf
+│      └── README.md 
 │  
 └── README.md  
 
